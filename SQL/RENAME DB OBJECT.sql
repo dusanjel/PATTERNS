@@ -1,0 +1,1 @@
+EXEC sp_rename 'Ime objekta', 'Novo ime objekta'

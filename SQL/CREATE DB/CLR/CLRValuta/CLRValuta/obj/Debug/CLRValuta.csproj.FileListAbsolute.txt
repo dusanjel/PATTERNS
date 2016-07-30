@@ -1,0 +1,5 @@
+C:\Users\Dusan\Desktop\SQL Script FON\StruktuiraniTipFile\CLRValuta\CLRValuta\bin\Debug\CLRValuta.dll
+C:\Users\Dusan\Desktop\SQL Script FON\StruktuiraniTipFile\CLRValuta\CLRValuta\bin\Debug\CLRValuta.pdb
+C:\Users\Dusan\Desktop\SQL Script FON\StruktuiraniTipFile\CLRValuta\CLRValuta\obj\Debug\CLRValuta.dll
+C:\Users\Dusan\Desktop\SQL Script FON\StruktuiraniTipFile\CLRValuta\CLRValuta\obj\Debug\CLRValuta.pdb
+C:\Users\Dusan\Desktop\SQL Script FON\StruktuiraniTipFile\CLRValuta\CLRValuta\obj\Debug\CLRValuta.csprojResolveAssemblyReference.cache
